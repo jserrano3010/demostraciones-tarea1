@@ -1,0 +1,17 @@
+format: jb-book
+root: intro
+parts:
+  - caption: K-vecinos más cercanos
+    chapters:
+      - file: "01"
+      - file: "02"
+  - caption: Regresión ridge y lasso
+    chapters:
+      - file: "03"
+      - file: "04"
+      - file: "05"
+      - file: "06"
+  - caption: Árboles y ensambles
+    chapters:
+      - file: "07"
+      - file: "08"
